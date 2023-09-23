@@ -1,0 +1,17 @@
+Achievement : 
+
+0. Pintar Pandai : Selesai tutorial dan masuk ke stage 1-1
+1. Sehat Bugar : Tidak terkena hit sama sekali dan finish
+2. Anak SMP Baru : Selesai stage 1 dan masuk ke stage 2
+3. Tidak Ikut Trend Alay : Tidak terkena obstacle warnet atau PS
+4. Kurang Belajar : Tidak mengambil buku
+5. Menuju Dewasa : Selesai stage 2 dan masuk ke stage 3
+6. Stay Halal : Tidak terkena obstacle pacaran
+7. Menolak Nge-fly : Menghancurkan obstacle miras
+8. Meratapi Masa depan : Tidak menggunakan attack sama sekali tetapi buku ada 
+9. Lulus Sekolah : Selesai stage 3 
+10. Next Presiden : Max upgrade Buku
+11. Crazy Rich : Tidak Mengambil uang
+12. Membuka lembaran baru : Membeli ubah nama
+13. Anak Tangguh : Max Upgrade HP
+14. Sang Musafir : Wave sampai 10 di endless runner

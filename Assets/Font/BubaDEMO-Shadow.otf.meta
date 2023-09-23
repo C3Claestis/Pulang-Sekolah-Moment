@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a4bda7a4c840b134a88429bc8aa89dea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Buba DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f1b3edf62e5502245b4b1a5932f01f7b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
